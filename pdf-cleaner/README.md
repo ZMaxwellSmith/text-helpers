@@ -26,3 +26,6 @@ Then
 ```
 deactivate
 ```
+# mess.py
+
+Scraps of scripts/experiments for cleaning Indonesian pdf 
